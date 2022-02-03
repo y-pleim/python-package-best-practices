@@ -41,6 +41,7 @@ please review the [package setup] section of the lessons.
 │   ├── data                        <- Sample additional data (non-code) which can be packaged. Just an example, delete in production
 │   │   ├── README.md
 │   │   └── look_and_say.dat
+│   ├── functions.py                <- Module containing functions from starting_notebook.ipynb
 │   └── tests                       <- Unit test directory with sample tests
 │       ├── __init__.py
 │       └── test_molecool.py
